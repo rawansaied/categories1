@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">categories 1</string>
+    <string name="categories">categories</string>
+    <string name="dental_checkup">Dental checkup</string>
+    <string name="todo">TODO</string>
+    <string name="crown" />
+    <string name="dental_crown">"dental crown "</string>
+    <string name="tooth_free">tooth free</string>
+    <string name="dental_care">Dental care</string>
+    <string name="teeth_polishing">teeth polishing</string>
+    <string name="tooth_implant">tooth implant</string>
+    <string name="Orthodontic_installation">Orthodontic installation</string>
+    <string name="tap_to_search">Tap to search</string>
+    <string name="Dental_crown">Dental crown</string>
+    <string name="Tooth_implant">Tooth implant</string>
+    <string name="Dental_care">Dental care</string>
+    <string name="Teeth_polishing">Teeth polishing</string>
+    <string name="Tap_To_search">Tap To search</string>
+</resources>
